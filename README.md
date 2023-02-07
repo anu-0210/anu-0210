@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 📫 Feel free to reach me:
 
 [![Email](https://img.shields.io/badge/Email-%40anugoyal0210@gmail.com%20-blue)](mailto:anugoyal0210@gmail.com?)
-[![Linkedin:anu-agrawal-713632118/](https://img.shields.io/badge/-Anu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anu-agrawal-713632118/)](https://www.linkedin.com/in/anu-agrawal-713632118/)
+[![Linkedin:anu-agrawal-713632118/](https://img.shields.io/badge/-AnuAgarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anu-agrawal-713632118/)](https://www.linkedin.com/in/anu-agrawal-713632118/)
 [![Twitter: AnuAgra61500362](https://img.shields.io/twitter/follow/AnuAgra61500362?style=social)](https://twitter.com/AnuAgra61500362)
 
