@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Iot project and iOS Development 
 - 🌱 I’m currently learning React-Native & SwiftUI
 - 💬 Ask me about iOS Development 
-📫 Feel free to reach me:
+- 📫 Feel free to reach me:
 
 [![Email](https://img.shields.io/badge/Email-%40anugoyal0210@gmail.com%20-blue)](mailto:anugoyal0210@gmail.com?)
 [![Linkedin:anu-agrawal-713632118/](https://img.shields.io/badge/-Anu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anu-agrawal-713632118/)](https://www.linkedin.com/in/anu-agrawal-713632118/)
